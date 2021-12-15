@@ -1,0 +1,4 @@
+connected Grafana
+http://localhost:3000/?orgId=1
+
+made a visual
